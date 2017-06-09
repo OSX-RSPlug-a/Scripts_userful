@@ -6,7 +6,7 @@ USER=Log-N
 
 HOST=git@github.com:OSX-RSPlug-a/Scripts_userful.git
 
-GIT_PATH=Scripts_userful
+GIT_PATH=OSX-RSPlug-a/Scripts_userful.git
 
 REPO=${PWD##*/}
 GIT_REMOTE_URL=git@github.com:OSX-RSPlug-a/Scripts_userful.git
