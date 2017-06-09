@@ -2,14 +2,14 @@
 
 # Replace SSH_USERNAME, SSH_HOST, SSH_GIT_PATH with your details
 
-USER=Log-N
+USER=ur_user
 
-HOST=git@github.com:OSX-RSPlug-a/Scripts_userful.git
+HOST=ur_host_access
 
-GIT_PATH=OSX-RSPlug-a/Scripts_userful.git
+GIT_PATH=ur_path
 
 REPO=${PWD##*/}
-GIT_REMOTE_URL=git@github.com:OSX-RSPlug-a/Scripts_userful.git
+GIT_REMOTE_URL=ur_remote_url
 
 echo "-------------------------------------------"
 echo "------ Building new Git repository --------"
