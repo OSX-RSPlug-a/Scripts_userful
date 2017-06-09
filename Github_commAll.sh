@@ -9,7 +9,7 @@ HOST=git@github.com:OSX-RSPlug-a/Scripts_userful.git
 GIT_PATH=Scripts_userful
 
 REPO=${PWD##*/}
-GIT_REMOTE_URL=ssh://$USER@$HOST/$GIT_PATH/$REPO
+GIT_REMOTE_URL=git@github.com:OSX-RSPlug-a/Scripts_userful.git
 
 echo "-------------------------------------------"
 echo "------ Building new Git repository --------"
